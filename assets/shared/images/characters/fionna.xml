@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fionna.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fionna down0000" x="80" y="80" width="374" height="608"/>
+	<SubTexture name="fionna down0001" x="80" y="80" width="374" height="608"/>
+	<SubTexture name="fionna down0002" x="534" y="80" width="370" height="608" frameX="0" frameY="0" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna down0003" x="534" y="80" width="370" height="608" frameX="0" frameY="0" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna down0004" x="984" y="80" width="369" height="602" frameX="0" frameY="-6" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna down0005" x="984" y="80" width="369" height="602" frameX="0" frameY="-6" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna down0006" x="1433" y="80" width="369" height="608" frameX="0" frameY="0" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna down0007" x="1433" y="80" width="369" height="608" frameX="0" frameY="0" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna down0008" x="1882" y="80" width="369" height="608" frameX="0" frameY="0" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna down0009" x="1882" y="80" width="369" height="608" frameX="0" frameY="0" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna down0010" x="2331" y="80" width="369" height="608" frameX="0" frameY="0" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna down0011" x="2331" y="80" width="369" height="608" frameX="0" frameY="0" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna down0012" x="2331" y="80" width="369" height="608" frameX="0" frameY="0" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna down0013" x="2331" y="80" width="369" height="608" frameX="0" frameY="0" frameWidth="374" frameHeight="608"/>
+	<SubTexture name="fionna idle0000" x="2780" y="80" width="414" height="790" frameX="-2" frameY="0" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0001" x="2780" y="80" width="414" height="790" frameX="-2" frameY="0" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0002" x="3274" y="80" width="419" height="788" frameX="0" frameY="-2" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0003" x="3274" y="80" width="419" height="788" frameX="0" frameY="-2" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0004" x="3773" y="80" width="412" height="789" frameX="-7" frameY="-1" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0005" x="3773" y="80" width="412" height="789" frameX="-7" frameY="-1" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0006" x="4265" y="80" width="406" height="789" frameX="-10" frameY="-1" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0007" x="4265" y="80" width="406" height="789" frameX="-10" frameY="-1" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0008" x="4751" y="80" width="405" height="789" frameX="-9" frameY="-1" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0009" x="4751" y="80" width="405" height="789" frameX="-9" frameY="-1" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0010" x="5236" y="80" width="405" height="789" frameX="-9" frameY="-1" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0011" x="5236" y="80" width="405" height="789" frameX="-9" frameY="-1" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0012" x="5236" y="80" width="405" height="789" frameX="-9" frameY="-1" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna idle0013" x="5236" y="80" width="405" height="789" frameX="-9" frameY="-1" frameWidth="420" frameHeight="790"/>
+	<SubTexture name="fionna left0000" x="5721" y="80" width="664" height="589" frameX="0" frameY="-70" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0001" x="5721" y="80" width="664" height="589" frameX="0" frameY="-70" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0002" x="6465" y="80" width="648" height="584" frameX="-17" frameY="-75" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0003" x="6465" y="80" width="648" height="584" frameX="-17" frameY="-75" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0004" x="7193" y="80" width="625" height="600" frameX="-41" frameY="-59" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0005" x="7193" y="80" width="625" height="600" frameX="-41" frameY="-59" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0006" x="80" y="950" width="621" height="652" frameX="-46" frameY="-7" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0007" x="80" y="950" width="621" height="652" frameX="-46" frameY="-7" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0008" x="781" y="950" width="620" height="657" frameX="-47" frameY="-2" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0009" x="781" y="950" width="620" height="657" frameX="-47" frameY="-2" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0010" x="1481" y="950" width="621" height="659" frameX="-46" frameY="0" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0011" x="1481" y="950" width="621" height="659" frameX="-46" frameY="0" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0012" x="1481" y="950" width="621" height="659" frameX="-46" frameY="0" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna left0013" x="1481" y="950" width="621" height="659" frameX="-46" frameY="0" frameWidth="667" frameHeight="659"/>
+	<SubTexture name="fionna right0000" x="2182" y="950" width="509" height="593" frameX="-7" frameY="-22" frameWidth="518" frameHeight="615"/>
+	<SubTexture name="fionna right0001" x="2182" y="950" width="509" height="593" frameX="-7" frameY="-22" frameWidth="518" frameHeight="615"/>
+	<SubTexture name="fionna right0002" x="2771" y="950" width="508" height="593" frameX="-7" frameY="-22" frameWidth="518" frameHeight="615"/>
+	<SubTexture name="fionna right0003" x="2771" y="950" width="508" height="593" frameX="-7" frameY="-22" frameWidth="518" frameHeight="615"/>
+	<SubTexture name="fionna right0004" x="3359" y="950" width="514" height="604" frameX="-1" frameY="-11" frameWidth="518" frameHeight="615"/>
+	<SubTexture name="fionna right0005" x="3359" y="950" width="514" height="604" frameX="-1" frameY="-11" frameWidth="518" frameHeight="615"/>
+	<SubTexture name="fionna right0006" x="3953" y="950" width="516" height="613" frameX="0" frameY="-2" frameWidth="518" frameHeight="615"/>
+	<SubTexture name="fionna right0007" x="3953" y="950" width="516" height="613" frameX="0" frameY="-2" frameWidth="518" frameHeight="615"/>
+	<SubTexture name="fionna right0008" x="4549" y="950" width="518" height="615"/>
+	<SubTexture name="fionna right0009" x="4549" y="950" width="518" height="615"/>
+	<SubTexture name="fionna right0010" x="5147" y="950" width="518" height="615"/>
+	<SubTexture name="fionna right0011" x="5147" y="950" width="518" height="615"/>
+	<SubTexture name="fionna right0012" x="5147" y="950" width="518" height="615"/>
+	<SubTexture name="fionna right0013" x="5147" y="950" width="518" height="615"/>
+	<SubTexture name="fionna up0000" x="5745" y="950" width="587" height="823" frameX="0" frameY="-1" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0001" x="5745" y="950" width="587" height="823" frameX="0" frameY="-1" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0002" x="6412" y="950" width="363" height="818" frameX="0" frameY="-6" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0003" x="6412" y="950" width="363" height="818" frameX="0" frameY="-6" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0004" x="6855" y="950" width="363" height="817" frameX="0" frameY="-7" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0005" x="6855" y="950" width="363" height="817" frameX="0" frameY="-7" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0006" x="7298" y="950" width="363" height="819" frameX="0" frameY="-5" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0007" x="7298" y="950" width="363" height="819" frameX="0" frameY="-5" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0008" x="7741" y="950" width="363" height="819" frameX="0" frameY="-5" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0009" x="7741" y="950" width="363" height="819" frameX="0" frameY="-5" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0010" x="7741" y="950" width="363" height="819" frameX="0" frameY="-5" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0011" x="7741" y="950" width="363" height="819" frameX="0" frameY="-5" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0012" x="7741" y="950" width="363" height="819" frameX="0" frameY="-5" frameWidth="660" frameHeight="824"/>
+	<SubTexture name="fionna up0013" x="7741" y="950" width="363" height="819" frameX="0" frameY="-5" frameWidth="660" frameHeight="824"/>
+</TextureAtlas>

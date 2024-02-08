@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cake.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cake down0000" x="80" y="80" width="686" height="636"/>
+	<SubTexture name="cake down0001" x="80" y="80" width="686" height="636"/>
+	<SubTexture name="cake down0002" x="846" y="80" width="686" height="636"/>
+	<SubTexture name="cake down0003" x="846" y="80" width="686" height="636"/>
+	<SubTexture name="cake down0004" x="1612" y="80" width="686" height="636"/>
+	<SubTexture name="cake down0005" x="1612" y="80" width="686" height="636"/>
+	<SubTexture name="cake down0006" x="2378" y="80" width="686" height="636"/>
+	<SubTexture name="cake down0007" x="2378" y="80" width="686" height="636"/>
+	<SubTexture name="cake down0008" x="3144" y="80" width="686" height="636"/>
+	<SubTexture name="cake down0009" x="3144" y="80" width="686" height="636"/>
+	<SubTexture name="cake down0010" x="3910" y="80" width="686" height="636"/>
+	<SubTexture name="cake down0011" x="3910" y="80" width="686" height="636"/>
+	<SubTexture name="cake idle0000" x="4676" y="80" width="540" height="404" frameX="-21" frameY="-12" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0001" x="4676" y="80" width="540" height="404" frameX="-21" frameY="-12" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0002" x="5296" y="80" width="539" height="407" frameX="-22" frameY="-9" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0003" x="5296" y="80" width="539" height="407" frameX="-22" frameY="-9" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0004" x="5915" y="80" width="539" height="412" frameX="-13" frameY="-4" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0005" x="5915" y="80" width="539" height="412" frameX="-13" frameY="-4" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0006" x="6534" y="80" width="540" height="415" frameX="-10" frameY="-1" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0007" x="6534" y="80" width="540" height="415" frameX="-10" frameY="-1" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0008" x="7154" y="80" width="540" height="416" frameX="-9" frameY="0" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0009" x="7154" y="80" width="540" height="416" frameX="-9" frameY="0" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0010" x="7154" y="80" width="540" height="416" frameX="-9" frameY="0" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0011" x="80" y="796" width="539" height="416" frameX="-9" frameY="0" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0012" x="80" y="796" width="539" height="416" frameX="-9" frameY="0" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0013" x="699" y="796" width="540" height="414" frameX="-5" frameY="-2" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0014" x="699" y="796" width="540" height="414" frameX="-5" frameY="-2" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0015" x="1319" y="796" width="540" height="405" frameX="0" frameY="-11" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0016" x="1319" y="796" width="540" height="405" frameX="0" frameY="-11" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0017" x="1939" y="796" width="539" height="404" frameX="-1" frameY="-12" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0018" x="1939" y="796" width="539" height="404" frameX="-1" frameY="-12" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0019" x="2558" y="796" width="540" height="407" frameX="-5" frameY="-9" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0020" x="2558" y="796" width="540" height="407" frameX="-5" frameY="-9" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0021" x="3178" y="796" width="539" height="409" frameX="-10" frameY="-7" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0022" x="3178" y="796" width="539" height="409" frameX="-10" frameY="-7" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0023" x="3797" y="796" width="539" height="410" frameX="-11" frameY="-6" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0024" x="3797" y="796" width="539" height="410" frameX="-11" frameY="-6" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0025" x="3797" y="796" width="539" height="410" frameX="-11" frameY="-6" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0026" x="4416" y="796" width="539" height="410" frameX="-11" frameY="-6" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0027" x="4416" y="796" width="539" height="410" frameX="-11" frameY="-6" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0028" x="5035" y="796" width="540" height="405" frameX="-20" frameY="-11" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake idle0029" x="5035" y="796" width="540" height="405" frameX="-20" frameY="-11" frameWidth="561" frameHeight="416"/>
+	<SubTexture name="cake join0000" x="5655" y="796" width="211" height="302" frameX="-220" frameY="0" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0001" x="5655" y="796" width="211" height="302" frameX="-220" frameY="0" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0002" x="5946" y="796" width="193" height="371" frameX="-249" frameY="-423" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0003" x="6219" y="796" width="168" height="392" frameX="-273" frameY="-900" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0004" x="6219" y="796" width="168" height="392" frameX="-273" frameY="-900" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0005" x="6467" y="796" width="494" height="127" frameX="-85" frameY="-1330" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0006" x="7041" y="796" width="308" height="179" frameX="-180" frameY="-1276" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0007" x="7041" y="796" width="308" height="179" frameX="-180" frameY="-1276" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0008" x="7429" y="796" width="313" height="363" frameX="-211" frameY="-993" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0009" x="7429" y="796" width="313" height="363" frameX="-211" frameY="-993" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0010" x="80" y="1292" width="503" height="387" frameX="-144" frameY="-798" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0011" x="80" y="1292" width="503" height="387" frameX="-144" frameY="-798" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0012" x="663" y="1292" width="459" height="451" frameX="-140" frameY="-666" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0013" x="1202" y="1292" width="507" height="499" frameX="-154" frameY="-523" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0014" x="1202" y="1292" width="507" height="499" frameX="-154" frameY="-523" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0015" x="1789" y="1292" width="437" height="503" frameX="-142" frameY="-479" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0016" x="1789" y="1292" width="437" height="503" frameX="-142" frameY="-479" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0017" x="2306" y="1292" width="410" height="474" frameX="-147" frameY="-509" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0018" x="2306" y="1292" width="410" height="474" frameX="-147" frameY="-509" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0019" x="2796" y="1292" width="394" height="519" frameX="-58" frameY="-631" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0020" x="3270" y="1292" width="468" height="504" frameX="0" frameY="-831" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0021" x="3270" y="1292" width="468" height="504" frameX="0" frameY="-831" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0022" x="3818" y="1292" width="513" height="372" frameX="-20" frameY="-1082" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0023" x="3818" y="1292" width="513" height="372" frameX="-20" frameY="-1082" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0024" x="4411" y="1292" width="531" height="407" frameX="-37" frameY="-1051" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0025" x="4411" y="1292" width="531" height="407" frameX="-37" frameY="-1051" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0026" x="5022" y="1292" width="540" height="417" frameX="-43" frameY="-1035" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0027" x="5022" y="1292" width="540" height="417" frameX="-43" frameY="-1035" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0028" x="5642" y="1292" width="539" height="425" frameX="-42" frameY="-1027" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0029" x="5642" y="1292" width="539" height="425" frameX="-42" frameY="-1027" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0030" x="6261" y="1292" width="539" height="430" frameX="-35" frameY="-1022" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake join0031" x="6261" y="1292" width="539" height="430" frameX="-35" frameY="-1022" frameWidth="661" frameHeight="1458"/>
+	<SubTexture name="cake left0000" x="6880" y="1292" width="726" height="661"/>
+	<SubTexture name="cake left0001" x="6880" y="1292" width="726" height="661"/>
+	<SubTexture name="cake left0002" x="80" y="2033" width="726" height="661"/>
+	<SubTexture name="cake left0003" x="80" y="2033" width="726" height="661"/>
+	<SubTexture name="cake left0004" x="886" y="2033" width="726" height="661"/>
+	<SubTexture name="cake left0005" x="886" y="2033" width="726" height="661"/>
+	<SubTexture name="cake left0006" x="1692" y="2033" width="726" height="661"/>
+	<SubTexture name="cake left0007" x="1692" y="2033" width="726" height="661"/>
+	<SubTexture name="cake left0008" x="2498" y="2033" width="726" height="661"/>
+	<SubTexture name="cake left0009" x="2498" y="2033" width="726" height="661"/>
+	<SubTexture name="cake left0010" x="3304" y="2033" width="726" height="661"/>
+	<SubTexture name="cake left0011" x="3304" y="2033" width="726" height="661"/>
+	<SubTexture name="cake right0000" x="4110" y="2033" width="699" height="621"/>
+	<SubTexture name="cake right0001" x="4110" y="2033" width="699" height="621"/>
+	<SubTexture name="cake right0002" x="4889" y="2033" width="699" height="621"/>
+	<SubTexture name="cake right0003" x="4889" y="2033" width="699" height="621"/>
+	<SubTexture name="cake right0004" x="5668" y="2033" width="699" height="621"/>
+	<SubTexture name="cake right0005" x="5668" y="2033" width="699" height="621"/>
+	<SubTexture name="cake right0006" x="6447" y="2033" width="699" height="621"/>
+	<SubTexture name="cake right0007" x="6447" y="2033" width="699" height="621"/>
+	<SubTexture name="cake right0008" x="7226" y="2033" width="699" height="621"/>
+	<SubTexture name="cake right0009" x="7226" y="2033" width="699" height="621"/>
+	<SubTexture name="cake right0010" x="80" y="2774" width="699" height="621"/>
+	<SubTexture name="cake right0011" x="80" y="2774" width="699" height="621"/>
+	<SubTexture name="cake up0000" x="859" y="2774" width="692" height="689"/>
+	<SubTexture name="cake up0001" x="859" y="2774" width="692" height="689"/>
+	<SubTexture name="cake up0002" x="1631" y="2774" width="692" height="689"/>
+	<SubTexture name="cake up0003" x="1631" y="2774" width="692" height="689"/>
+	<SubTexture name="cake up0004" x="2403" y="2774" width="692" height="689"/>
+	<SubTexture name="cake up0005" x="2403" y="2774" width="692" height="689"/>
+	<SubTexture name="cake up0006" x="3175" y="2774" width="692" height="689"/>
+	<SubTexture name="cake up0007" x="3175" y="2774" width="692" height="689"/>
+	<SubTexture name="cake up0008" x="3947" y="2774" width="692" height="689"/>
+	<SubTexture name="cake up0009" x="3947" y="2774" width="692" height="689"/>
+	<SubTexture name="cake up0010" x="4719" y="2774" width="692" height="689"/>
+	<SubTexture name="cake up0011" x="4719" y="2774" width="692" height="689"/>
+</TextureAtlas>
