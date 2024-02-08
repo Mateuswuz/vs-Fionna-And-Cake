@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fionna idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				331,
+				-140
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fionna left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fionna down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fionna up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-173
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fionna right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fionna",
+	"position": [
+		20,
+		30
+	],
+	"healthicon": "fionna",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		153,
+		255
+	],
+	"camera_position": [
+		50,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
